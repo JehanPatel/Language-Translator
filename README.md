@@ -14,4 +14,3 @@ Translation is an activity, a product, and a process. As an activity, translatio
 - Text to Speech
 - Speech to Text
 
-dekho mein kah rha tha translator ho chuka hai vit wle teacher se puch lo
